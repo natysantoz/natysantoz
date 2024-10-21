@@ -1,10 +1,10 @@
 - Oioi sou a Natielly
 -Ter uma vida bem sucedida
-- 🌱 I’m curr
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- atualmente estou aprendendo html/ss
+- estou interessado em elaborar varios projetos
+- @natysantoz
+- ela/dela
+- eu amo minha irmâ
 
 <!---
 natysantoz/natysantoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
